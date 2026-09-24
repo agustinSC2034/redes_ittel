@@ -1,6 +1,6 @@
 # Mapa de archivos
 
-- `index.html`: visor web estático de IT-TEL con las capas, los datos incorporados, accesos por red y la leyenda de colores.
+- `index.html`: visor web estático de IT-TEL con las capas y los datos incorporados; el panel inferior navega por sector y el selector superior organiza las redes.
 - `it-tel_logo.png`: logo transparente de IT-TEL mostrado junto al título del visor.
 - `.nojekyll`: indica a GitHub Pages que publique los archivos directamente, sin procesamiento de Jekyll.
 - `README.md`: alcance del mapa, criterios de selección de las redes locales e instrucciones para publicar en GitHub Pages.
