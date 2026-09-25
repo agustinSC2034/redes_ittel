@@ -4,7 +4,7 @@
 
 Se incorporaron **222 trazas de Tandil** y **331 de La Matanza**, en capas separadas. Tandil se representa en cian y La Matanza en violeta; se mantienen los colores originales de autopistas y ferrocarriles. El corredor antes rotulado “Acceso Oeste” se muestra como **Grupo Concesionario del Oeste**. El panel inferior ofrece accesos por sector: **CABA**, **Buenos Aires**, **Nacional**, **Tandil** y **La Matanza**. El selector superior separa las capas por red: **AUSA**, **AUBASA**, **AUSOL**, **Grupo Concesionario del Oeste**, **ADIFSE**, **TANDIL** y **LA MATANZA**. “ADIFSE” funciona como nombre de carpeta y rótulo corto del acceso ferroviario; las limitaciones de atribución administrativa por tramo siguen indicadas en la documentación.
 
-El KMZ combinado es `Infraestructura_con_Tandil_y_Matanza.kmz`, y la copia para publicar es `Infraestructura_IT-TEL.kmz`. Conserva los 713 objetos activos de la base anterior y añade 553 trazas locales: **1.266 objetos**, siete estilos, líneas de ancho 4 y ningún punto ni polígono. Se excluyen 256 tramos ferroviarios abandonados.
+El KMZ combinado es `Infraestructura_con_Tandil_y_Matanza.kmz`, y la copia para publicar es `Infraestructura_IT-TEL.kmz`. Conserva los 713 objetos activos de la base anterior y añade 553 trazas locales más una geometría de continuidad AUSA por Av. 9 de Julio: **1.267 objetos**, siete estilos, líneas de ancho 4 y ningún punto ni polígono. Se excluyen 256 tramos ferroviarios abandonados.
 
 ## Selección aplicada
 
